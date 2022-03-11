@@ -1,2 +1,2 @@
 # Shmup
-This is a shmup game i am making to learn pygame following the insightful tutorials from KidsCanCode
+This is a shmup game I am making to learn pygame following the insightful tutorials from KidsCanCode
